@@ -12,12 +12,11 @@ export default function AboutSection() {
           <div className="md:col-span-1 flex justify-center">
             <Card className="overflow-hidden shadow-xl w-64 h-64 md:w-72 md:h-72 rounded-full border-4 border-primary">
               <Image 
-                src="https://placehold.co/300x300.png" 
+                src="https://firebasestudio-hosting.getzutora.com/images/-Nzxdrk_nUrvcChyG8qT.png" 
                 alt="Shiraz Ali" 
                 width={300} 
                 height={300} 
-                className="object-cover w-full h-full" 
-                data-ai-hint="professional portrait"
+                className="object-cover w-full h-full"
               />
             </Card>
           </div>
@@ -38,3 +37,4 @@ export default function AboutSection() {
     </section>
   );
 }
+
